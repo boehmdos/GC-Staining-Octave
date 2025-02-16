@@ -53,4 +53,4 @@ It uses following packages (tested on 16/02/2025):
 
 # What we dream of
 
-Reading native files from GC manufacturers
+- Reading native files from GC manufacturers

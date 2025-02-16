@@ -3,7 +3,7 @@ See your GC data better! Adds color to gas chromatograms according to their mass
 
 Please remember to cite our publication if you use staining or substance maps in a scientific paper! The DOI is **10.1016/j.talanta.2025.127541** and the paper is here (Open Access): https://www.sciencedirect.com/science/article/pii/S003991402500027X?via%3Dihub
 
-![A chromatogram with staining stripes, a substance map, a quantitative substance map](/ExampleFiles/GCStaining.png?raw=true "Optional Title")
+![A chromatogram with staining stripes, a substance map, a quantitative substance map](/ExampleFiles/GCStaining.png?raw=true "A stained chromatogram, a susbtance map, a quantitative substance map")
 
 Run the script **"GCStaining.m"** to stain a chromatogram. From the output, the chromatogram can be stained again more quickly with the script **"Restaining.m"**. All other functions are called by these two scripts. Please see the comments in the script for the varaibles used in the scripts.
 

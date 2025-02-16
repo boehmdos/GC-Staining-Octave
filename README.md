@@ -47,9 +47,9 @@ It uses following packages (tested on 16/02/2025):
 
 # What's up next
 
-Speed. This is as fast as we could go with Octave. We know that we can be faster in Matlab. When there is time.
+- Speed. This is as fast as we could go with Octave. We know that we can be faster in Matlab using pdist2. When there is time.
 
-A GUI. When there is time.
+- A GUI. When there is time.
 
 # What we dream of
 

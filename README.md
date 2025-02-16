@@ -5,7 +5,7 @@ Please remember to cite our publication if you use staining or substance maps in
 
 ![A chromatogram with staining stripes, a substance map, a quantitative substance map](/ExampleFiles/GCStaining.png?raw=true "A stained chromatogram, a susbtance map, a quantitative substance map")
 
-Run the script **"GCStaining.m"** to stain a chromatogram. From the output, the chromatogram can be stained again more quickly with the script **"Restaining.m"**. All other functions are called by these two scripts. Please see the comments in the script for the varaibles used in the scripts.
+Run the script **"GCStaining.m"** to stain a chromatogram. From the output, the chromatogram can be stained again more quickly with the script **"Restaining.m"**. All other functions are called by these two scripts. Please see the comments in the script for the required and optional variables used in the scripts.
 
 # Prerequisites
 To work properly, the script needs all the scripts provided and **a map of mass spectra** (a SOM). An extensive SOM can be downloaded at https://doi.org/10.5281/zenodo.13710838. It is built from spectra available from the MassBank of North America (Mona, used under a CC-BY 4.0 license, https://mona.fiehnlab.ucdavis.edu) and covers a wide range of typical GC analytes. We recommend to save this map as hf5 to load faster when the script is executed.
